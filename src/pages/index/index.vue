@@ -4,9 +4,6 @@
     <button @click="increment">watchEffectAAAA</button>
     <button @click="increment">watchPostEffect</button>
     <button @click="increment">watchSyncEffect</button>
-	<view class="ass">
-		啊士大夫看见
-	</view>
   </div>
 </template>
 
